@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "winapifamily.h": "c",
+    "ray.h": "c",
+    "igraphics.h": "c"
+  }
+}
