@@ -1,9 +1,13 @@
 {
-  "configurations": [
-    {
-      "name": "Win32",
-      "includePath": ["${workspaceFolder}\\include", "${workspaceFolder}\\GL\\include"]
-    }
-  ],
-  "version": 4
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}\\include",
+                "${workspaceFolder}\\GL\\include"
+            ],
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
 }
